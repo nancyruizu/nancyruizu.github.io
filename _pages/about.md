@@ -13,7 +13,7 @@ About me
 I'm a doctoral student in the Schaffer-Nishimura lab at Cornell University. 
 
 **Contact**
-[Email](mailto:nr376@cornell.edu) | [Twitter](https://twitter.com/NancyRuizU) | [Github](https://github.com/nancyruizu)
+[Email](mailto:nr376@cornell.edu) | [Twitter](https://twitter.com/NancyRuizU) | [Github](https://github.com/nancyruizu) | [Lab website](https://snlab.bme.cornell.edu)
 
 Research Interests
 ------
@@ -31,10 +31,10 @@ To understand vascular dynamics *in vivo*, I use multiphoton imaging to visualiz
 
 From Ahn et al., 2020 *JCBFM*
 
-Animal Behavior 
+Oxidative stress pathways that mediate capillary stalling and inflammation
 ------
 
-Navigation requires knowledge of both environmental landmarks and an animal's current position. Animal movements can reveal critical information about the state of an animal that is navigating an environment. Below depicts a rat's path while exploring an open field with a local cue. While the rat tended to stay near the local cue, the path in the middle of the field shows head sweeping of the environment. This type of information, along with other features obtained from animal tracking, is critical for understanding spatial navigation.
+[Previous work in my lab](https://www.nature.com/articles/s41593-018-0329-4) has highlighted capillary stalling as one of the main mechanisms for blood flow deficits in AD mouse models. My research is a follow up of this work, where I try to understand why capillary stalling is happening in the first place. Our collaborators at Weill Cornell have discovered [oxidative stress pathways involved in vascular dysfunction] (http://www.nature.com/articles/ncomms6318) that we hyphotesize could be driving capillary stalling, in conjunction with other mechanisms, such as [blood brain barrier dysfunction] (https://doi.org/10.1093/brain/awab387) and [pericyte constriction] (https://science.sciencemag.org/content/early/2019/06/19/science.aav9518)
 
 <p align="center">
 <img src="https://nancyruizu.github.io/images/VEGF.png" width="800px"> 
