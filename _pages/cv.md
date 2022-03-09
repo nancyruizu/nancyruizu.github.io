@@ -18,6 +18,12 @@ Education
 
 Work experience
 ======
+
+* 2017-current, Graduate Student
+* Cornell University
+* Currently investigating the role of cerebral blood flow (CBF) deficits in the APP/PS1 mouse model of Alzheimer’s disease (AD) through in vivo multiphoton imaging. 
+* Supervisor: Chris Schaffer, PhD.
+
 * Summer 2021: Clinical Science Intern
   * Genentech, San Francisco, CA.
   * Explored the prognostic utility of tau PET for cognitive vs functional decline in mild to prodromal Alzheimer's disease patients from the semorinemab phase-two clinical trials
@@ -43,30 +49,22 @@ Work experience
   * Studied biomechanical properties of Trypanosoma cruzi flagellum under shear stress conditions 
   * Supervisors: Manu Forero-Shelton PhD and John Mario Gonzalez MD PhD
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
 
-Muhammad Ali, Kaja Falkenhain, Brendah N Njiru, Muhammad Murtaza-Ali, **Nancy E Ruiz-Uribe**, Mohammad Haft-Javaherian, Stall Catchers, Nozomi Nishimura, Chris B. Schaffer, Oliver Bracko. VEGF signaling causes stalls in brain capillaries and reduces cerebral blood flow in Alzheimer’s mice (2022) *Brain.
+Muhammad Ali, Kaja Falkenhain, Brendah N Njiru, Muhammad Murtaza-Ali, **Nancy E Ruiz-Uribe**, Mohammad Haft-Javaherian, Stall Catchers, Nozomi Nishimura, Chris B. Schaffer, Oliver Bracko. VEGF signaling causes stalls in brain capillaries and reduces cerebral blood flow in Alzheimer’s mice (2022) *Brain*.
 
 Elizabeth Koman*, Emily Laurilliard*, **Nancy E. Ruiz-Uribe***, Aziza Moore*. Restoration Through Regeneration: A Scientific and Political Lens into Regenerative Agriculture in the United States. (2021) *Journal of Science Policy and Governance. (*)Denotes equal contribution
 
-Cristhian David Perdomo-Gomez, **Nancy E. Ruiz-Uribe**, John Mario Gonzalez, Antonio Manu Forero Shelton. Nanotubule formation in Trypanosoma cruzi under shear stress. (2021) In review *Physical Biology
+Cristhian David Perdomo-Gomez, **Nancy E. Ruiz-Uribe**, John Mario Gonzalez, Antonio Manu Forero Shelton. Nanotubule formation in Trypanosoma cruzi under shear stress. (2021) In review *Physical Biology*
 
-Sung Ji Ahn, **Nancy E. Ruiz-Uribe**, Boqiang Li, Jason Porter, Sava Sakadzic, Chris B. Schaffer. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy (2020). *Biomedical Optics Express. (This work was top downloaded in April 2020)
+Sung Ji Ahn, **Nancy E. Ruiz-Uribe**, Boqiang Li, Jason Porter, Sava Sakadzic, Chris B. Schaffer. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy (2020). *Biomedical Optics Express*. (This work was top downloaded in April 2020)
 
 Oliver Bracko, Lindsay K. Vinarcsik, Jean C. Cruz Hernández, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Kaja Falkenhain, Egle M. Ramanauskaite, Muhammad Ali, Aditi Mohapatra, Madisen A. Swallow, Brendah N. Njiru, Victorine Muse, Pietro E. Michelucci, Nozomi Nishimura, Chris B. Schaffer.
-High fat diet worsens pathology and impairment in an Alzheimer’s mouse model, but not by synergistically decreasing cerebral blood flow. (2020) *Scientific Reports.
+High fat diet worsens pathology and impairment in an Alzheimer’s mouse model, but not by synergistically decreasing cerebral blood flow. (2020) *Scientific Reports.*
 
-Kaja Falkenhain, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Muhammad Ali, Stall Catchers contributors, Pietro E. Michelucci, Chris B. Schaffer, Oliver Bracko. Voluntary running does not increase capillary blood flow but promotes neurogenesis and short-term memory in the APP/PS1 mouse model of Alzheimer’s disease. (2020) *PLOS ONE. 
+Kaja Falkenhain, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Muhammad Ali, Stall Catchers contributors, Pietro E. Michelucci, Chris B. Schaffer, Oliver Bracko. Voluntary running does not increase capillary blood flow but promotes neurogenesis and short-term memory in the APP/PS1 mouse model of Alzheimer’s disease. (2020) *PLOS ONE.* 
 
   
 Talks and poster presentations
@@ -116,6 +114,3 @@ Awards and Scholarships
 2015		
 * Summer Scholarship for Undergraduate Research – Cornell University - Uniandes
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
