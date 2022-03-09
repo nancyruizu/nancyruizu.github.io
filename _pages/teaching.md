@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
+
 
 2020-1 Teaching Assistant
 -----
