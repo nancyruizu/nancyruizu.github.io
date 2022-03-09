@@ -20,9 +20,9 @@ Work experience
 ======
 
 * 2017-current, Graduate Student
-* Cornell University
-* Currently investigating the role of cerebral blood flow (CBF) deficits in the APP/PS1 mouse model of Alzheimer’s disease (AD) through in vivo multiphoton imaging. 
-* Supervisor: Chris Schaffer, PhD.
+  * Cornell University
+  * Currently investigating the role of cerebral blood flow (CBF) deficits in the APP/PS1 mouse model of Alzheimer’s disease (AD) through in vivo multiphoton imaging. 
+  * Supervisor: Chris Schaffer, PhD.
 
 * Summer 2021: Clinical Science Intern
   * Genentech, San Francisco, CA.
