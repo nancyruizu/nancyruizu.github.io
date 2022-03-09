@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Nancy Ruiz Uribe"
-  avatar           : "profile.png"
+  avatar           : "NancyRU_Headshot.jpg"
   bio              : "hi"
   location         : "Cornell University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=uhN9gDAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@NancyRuizU"
   vine             :
   weibo            :
   xing             :
