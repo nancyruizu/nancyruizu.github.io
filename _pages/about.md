@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I'm a doctoral student in the Schaffer-Nishimura lab at Cornell University. 
+I'm a physicist and biologist by training, and currently I'm finishing my PhD in Biomedical Engineering at Cornell University under the guidance of Prof. Chris Schaffer. I'm passionate about all things neuroscience (specially the vasculature) but I'm also passionate about science communication, advocacy, diversity, equity and inclusion in STEM.   
 
 **Contact**
 [Email](mailto:nr376@cornell.edu) | [Twitter](https://twitter.com/NancyRuizU) | [Github](https://github.com/nancyruizu) | [Lab website](https://snlab.bme.cornell.edu)
@@ -34,9 +34,11 @@ From Ahn et al., 2020 *JCBFM*
 Oxidative stress pathways that mediate capillary stalling and inflammation
 ------
 
-[Previous work in my lab](https://www.nature.com/articles/s41593-018-0329-4) has highlighted capillary stalling as one of the main mechanisms for blood flow deficits in AD mouse models. My research is a follow up of this work, where I try to understand why capillary stalling is happening in the first place. Our collaborators at Weill Cornell have discovered [oxidative stress pathways involved in vascular dysfunction] (http://www.nature.com/articles/ncomms6318) that we hyphotesize could be driving capillary stalling, in conjunction with other mechanisms, such as [blood brain barrier dysfunction] (https://doi.org/10.1093/brain/awab387) and [pericyte constriction] (https://science.sciencemag.org/content/early/2019/06/19/science.aav9518)
+[Previous work in my lab](https://www.nature.com/articles/s41593-018-0329-4) has highlighted capillary stalling as one of the main mechanisms for blood flow deficits in AD mouse models. My research is a follow up of this work, where I try to understand why capillary stalling is happening in the first place. Our collaborators at Weill Cornell have discovered [oxidative stress pathways involved in vascular dysfunction](https://www.nature.com/articles/ncomms6318) that we hyphotesize could be driving capillary stalling, in conjunction with other mechanisms, such as [blood brain barrier dysfunction](https://doi.org/10.1093/brain/awab387) and [pericyte constriction](https://science.sciencemag.org/content/early/2019/06/19/science.aav9518). By inhibiting oxidative stress, I aim to understand whether this has any effect capillary stalling, blood flow, vascular inflammation, and behavior. 
 
 <p align="center">
 <img src="https://nancyruizu.github.io/images/VEGF.png" width="800px"> 
 </p>
+
+From Ali et al., 2021 *BRAIN*
 
