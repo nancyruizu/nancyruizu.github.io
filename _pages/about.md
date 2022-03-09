@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nancy Ruiz Uribe"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome
+About me
 ======
 I'm a doctoral student in the Schaffer-Nishimura lab at Cornell University. 
 
@@ -18,16 +18,18 @@ I'm a doctoral student in the Schaffer-Nishimura lab at Cornell University.
 Research Interests
 ------
 
-I study the neural circuity that supports spatial navigation and orientation, and how these circuits are altered by neurodegenerative processes. What fascinates me most about this topic is how internally generated senses, such as self-motion or head translation, interact with external sensory inputs, such as vision, to create stable representations of position within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to *1.) How animals interact with prominent environmental cues during spatial navigation or exploration* and *2.) How the firing dynamics of populations of neurons change as a function of the environment or across time.* 
+I study Alzheimer's disease (AD), a neurodegenerative disorder characterized by the accumulation of amyloid-beta plaques and neurofibrillary tangles in brain tissue, which leads to progressive and irreversible neurodegeneration. In particular, I am fascinated by understanding what causes blood flow deficits in AD mouse models and human patients, and how by rescuing blood flow we can ammeliorate cognitive decline. My research focuses on capillary stalling, a phenomenon in which capillary vessels in the brain get obstructed by the adhesion of neutrophils or other circulating cells, and such stalling impairs blood flow significantly. I use both in-vivo imaging and molecular techniques with AD mouse models to answer two key questions regarding what drives capillary stalling: *1.) Is this phenomenon mediated by vascular inflammation induced by oxidative stress? and if yes, 2) which inflammatory molecules are in charge of this process?*  
 
 In vivo two and three photon microscopy
 ------
 
-Head direction (HD) cells, shown below, are sometimes described as a neural compass. These cells fire maximally when the head is oriented in a given direction. The plots below show HD cells recorded from rats foraging in an open field. The colored dots represent the location the cell fired color-coded by the animal's head direction, while the polar plots (grey) show firing rate as a function of head direction. HD cells are thought to support spatial navigation by providing a neural basis of direction. 
+To understand vascular dynamics *in vivo*, I use multiphoton imaging to visualize blood vessels and measure blood flow in a *live* animal. By using different fluorescent labelling strategies, we can visualize leukocytes, platelets and red blood cells, and understand which cells are adhering to the vascular endothelium causing capillary stalling. To gain optical access to the brain, I perform cranial window surgeries on AD mouse models, which allows visualization of neurons, cells and the vasculature up to 1 mm deep (with three-photon imaging).
 
 <p align="center">
-<img src="https://lolaBerkowitz.github.io/images/Visual_HD.png" width="800px"> 
+<img src="https://nancyruizu.github.io/images/THG.png" width="800px"> 
 </p>
+
+From Ahn et al., 2020 *JCBFM*
 
 Animal Behavior 
 ------
@@ -35,6 +37,6 @@ Animal Behavior
 Navigation requires knowledge of both environmental landmarks and an animal's current position. Animal movements can reveal critical information about the state of an animal that is navigating an environment. Below depicts a rat's path while exploring an open field with a local cue. While the rat tended to stay near the local cue, the path in the middle of the field shows head sweeping of the environment. This type of information, along with other features obtained from animal tracking, is critical for understanding spatial navigation.
 
 <p align="center">
-<img src="https://lolaBerkowitz.github.io/images/Behavior_example.png" width="800px"> 
+<img src="https://nancyruizu.github.io/images/VEGF.png" width="800px"> 
 </p>
 
