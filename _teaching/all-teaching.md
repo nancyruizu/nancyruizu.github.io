@@ -10,8 +10,6 @@ location: "City, Country"
 
 
 2020-1 Teaching Assistant
-=====
-
  * BME 2010 Human Health and Physiology, Prof: Dr. Will Mc Gill
  * Department of Biomedical Engineering, Cornell University, Ithaca, NY, USA
 
