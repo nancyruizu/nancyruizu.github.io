@@ -69,33 +69,33 @@ Kaja Falkenhain, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Muhammad Ali
   
 Talks and poster presentations
 ======
-Panelist at the Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment (ISTAART) Journal Club: “Meet the Author”, where I presented the paper: “Astrocytic interleukin-3 programs microglia and limits Alzheimer’s disease” and hosted a Q&A session with the author: Dr. Cameron McAlpine. February 3rd, 2022.
+* Panelist at the Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment (ISTAART) Journal Club: “Meet the Author”, where I presented the paper: “Astrocytic interleukin-3 programs microglia and limits Alzheimer’s disease” and hosted a Q&A session with the author: Dr. Cameron McAlpine. February 3rd, 2022.
 
 <p align="center">
 <img src="https://nancyruizu.github.io/files/ISTAARTjclub.jpeg" width="600px"> 
 </p>
 
-Speaker at the 1st LatinX in BME symposium (virtual) organized by LatinX in BME and Florida International University (2020), with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
+* Speaker at the 1st LatinX in BME symposium (virtual) organized by LatinX in BME and Florida International University (2020), with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
 
-Speaker at webinar: Small and Mighty: Brain Capillaries in Health Disease (2021) with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
+* Speaker at webinar: Small and Mighty: Brain Capillaries in Health Disease (2021) with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
 
 <p align="center">
 <img src="https://nancyruizu.github.io/files/braincapillariesweb.jpeg" width="400px" height="500px"> 
 </p>
 
-Presenter at poster session (changed to virtual conference due to COVID-19) at the 2020 Alzheimer’s Association International Conference (AAIC). **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer. Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. Amsterdam, The Netherlands, July 27th -31st, 2020.  
+* Presenter at poster session (changed to virtual conference due to COVID-19) at the 2020 Alzheimer’s Association International Conference (AAIC). **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer. Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. Amsterdam, The Netherlands, July 27th -31st, 2020.  
 
-Presenter at poster session at the Optical Society of America (OSA) Biophotonics 2019: Optics and the Brain. **Ruiz-Uribe, N.E.**, Ahn, S.J., Schaffer, C.B. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy. Tucson, Arizona, USA. April 11th-April 14th, 2019.
+* Presenter at poster session at the Optical Society of America (OSA) Biophotonics 2019: Optics and the Brain. **Ruiz-Uribe, N.E.**, Ahn, S.J., Schaffer, C.B. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy. Tucson, Arizona, USA. April 11th-April 14th, 2019.
 
-Presenter at poster session at the 14th international conference of Alzheimer’s and Parkison’s diseases (ADPD) 2019. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Nozomi Nishimura, and Chris B. Schaffer. Inhibition of NOX2 Reduces Capillary Stalling and Restores Cerebral Blood Flow in a Mouse Model of Alzheimer’s Disease. Lisbon, Portugal, March 26th to March 31st , 2019.
+* Presenter at poster session at the 14th international conference of Alzheimer’s and Parkison’s diseases (ADPD) 2019. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Nozomi Nishimura, and Chris B. Schaffer. Inhibition of NOX2 Reduces Capillary Stalling and Restores Cerebral Blood Flow in a Mouse Model of Alzheimer’s Disease. Lisbon, Portugal, March 26th to March 31st , 2019.
 
-Presenter at poster session at the annual Society for Neuroscience (SfN) meeting. **Ruiz-Uribe, N.E.**, Ahn, S.J., Schaffer, C.B. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy. San Diego, CA, USA. November 4th-November 7th, 2018.
+* Presenter at poster session at the annual Society for Neuroscience (SfN) meeting. **Ruiz-Uribe, N.E.**, Ahn, S.J., Schaffer, C.B. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy. San Diego, CA, USA. November 4th-November 7th, 2018.
 
-Presenter at poster session at the 61st annual Biophysical Society meeting. **Ruiz-Uribe, N.E.**, Gonzalez J.M., and Forero-Shelton A.M., Mechanical Properties of Trypanosoma Cruzi Flagellum. New Orleans, Louisiana, USA. February 11th – February 15th, 2017.
+* Presenter at poster session at the 61st annual Biophysical Society meeting. **Ruiz-Uribe, N.E.**, Gonzalez J.M., and Forero-Shelton A.M., Mechanical Properties of Trypanosoma Cruzi Flagellum. New Orleans, Louisiana, USA. February 11th – February 15th, 2017.
 
-Speaker at conference: ‘Investigar en pregrado sí se puede’ with the project: ‘Larval development and calcification processes in Pterogorgia guadalupensis under conditions of ocean acidification.’ Vicerrectoría de investigaciones. Universidad de los Andes. Bogotá, Colombia. May 2016
+* Speaker at conference: ‘Investigar en pregrado sí se puede’ with the project: ‘Larval development and calcification processes in Pterogorgia guadalupensis under conditions of ocean acidification.’ Vicerrectoría de investigaciones. Universidad de los Andes. Bogotá, Colombia. May 2016
 
-Speaker at Workshop: ‘Image Analysis: FIJI and MATLAB’. Department of Biological Sciences. Universidad de los Andes. Bogotá, Colombia. October 2015
+* Speaker at Workshop: ‘Image Analysis: FIJI and MATLAB’. Department of Biological Sciences. Universidad de los Andes. Bogotá, Colombia. October 2015
 
 
 Awards and Scholarships
