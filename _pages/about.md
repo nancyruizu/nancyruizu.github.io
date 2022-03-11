@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Welcome!
 ======
-I'm a physicist and biologist by training, and currently I'm finishing my PhD in Biomedical Engineering at Cornell University under the guidance of Prof. Chris Schaffer. I'm passionate about all things neuroscience (specially the vasculature) but I'm also passionate about science communication, advocacy, diversity, equity and inclusion in STEM.   
+I'm a physicist and biologist by training, and currently I'm finishing my PhD in Biomedical Engineering in the [Schaffer-Nishimura Lab](https://snlab.bme.cornell.edu) at Cornell University. I'm passionate about all things neuroscience (specially the vasculature) but I'm also passionate about science communication, advocacy, diversity, equity and inclusion in STEM.   
 
 **Contact**
 [Email](mailto:nr376@cornell.edu) | [Twitter](https://twitter.com/NancyRuizU) | [Github](https://github.com/nancyruizu) | [Lab website](https://snlab.bme.cornell.edu)
@@ -18,7 +18,7 @@ I'm a physicist and biologist by training, and currently I'm finishing my PhD in
 Research Interests
 ------
 
-I study Alzheimer's disease (AD), a neurodegenerative disorder characterized by the accumulation of amyloid-beta plaques and neurofibrillary tangles in brain tissue, which leads to progressive and irreversible neurodegeneration. In particular, I am fascinated by understanding what causes blood flow deficits in AD mouse models and human patients, and how by rescuing blood flow we can ammeliorate cognitive decline. My research focuses on capillary stalling, a phenomenon in which capillary vessels in the brain get obstructed by the adhesion of neutrophils or other circulating cells, and such stalling impairs blood flow significantly. I use both in-vivo imaging and molecular techniques with AD mouse models to answer two key questions regarding what drives capillary stalling: *1.) Is this phenomenon mediated by vascular inflammation induced by oxidative stress? and if yes, 2) which inflammatory molecules are in charge of this process?*  
+I study Alzheimer's disease (AD), a neurodegenerative disorder characterized by the accumulation of amyloid-beta plaques and neurofibrillary tangles in brain tissue, which leads to progressive and irreversible neurodegeneration. In particular, I am fascinated by understanding what causes blood flow deficits in AD mouse models and human patients, and how by rescuing blood flow we can ameliorate cognitive decline. My research focuses on capillary stalling, a phenomenon in which capillary vessels in the brain get obstructed by the adhesion of neutrophils or other circulating cells, and such stalling impairs blood flow significantly. I use both in-vivo imaging and molecular techniques with AD mouse models to answer two key questions regarding what drives capillary stalling: *1.) Is this phenomenon mediated by vascular inflammation induced by oxidative stress? and if yes, 2) which inflammatory molecules are in charge of this process?*  
 
 In vivo two and three photon microscopy
 ------
