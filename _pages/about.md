@@ -21,7 +21,7 @@ Research Interests
 I study Alzheimer's disease (AD), a neurodegenerative disorder characterized by the accumulation of amyloid-beta plaques and neurofibrillary tangles in brain tissue, which leads to progressive and irreversible neurodegeneration. In particular, I am fascinated by understanding what causes blood flow deficits in AD mouse models and human patients, and how by rescuing blood flow we can ameliorate cognitive decline. My research focuses on capillary stalling, a phenomenon in which capillary vessels in the brain get obstructed by the adhesion of neutrophils or other circulating cells, and such stalling impairs blood flow significantly. I use both in-vivo imaging and molecular techniques with AD mouse models to answer two key questions regarding what drives capillary stalling: *1.) Is this phenomenon mediated by vascular inflammation induced by oxidative stress? and if yes, 2) which inflammatory molecules are in charge of this process?*  
 
 <p align="center">
-<img src="https://nancyruizu.github.io/files/meandscope.JPG" width="300px", height="400px"> 
+<img src="https://nancyruizu.github.io/files/meandscope.JPG" width="400px"> 
 </p>
 
 In vivo two and three photon microscopy
@@ -30,7 +30,7 @@ In vivo two and three photon microscopy
 To understand vascular dynamics *in vivo*, I use multiphoton imaging to visualize blood vessels and measure blood flow in a *live* animal. By using different fluorescent labelling strategies, we can visualize leukocytes, platelets and red blood cells, and understand which cells are adhering to the vascular endothelium causing capillary stalling. To gain optical access to the brain, I perform cranial window surgeries on AD mouse models, which allows visualization of neurons, cells and the vasculature up to 1 mm deep (with three-photon imaging).
 
 <p align="center">
-<img src="https://nancyruizu.github.io/images/THG.png" width="800px"> 
+<img src="https://nancyruizu.github.io/images/THG.png" width="300px" height="400px"> 
 </p>
 
 From Ahn et al., 2020 *JCBFM*
