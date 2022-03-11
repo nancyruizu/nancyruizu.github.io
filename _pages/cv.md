@@ -55,7 +55,7 @@ Publications
 
 Muhammad Ali, Kaja Falkenhain, Brendah N Njiru, Muhammad Murtaza-Ali, **Nancy E Ruiz-Uribe**, Mohammad Haft-Javaherian, Stall Catchers, Nozomi Nishimura, Chris B. Schaffer, Oliver Bracko. VEGF signaling causes stalls in brain capillaries and reduces cerebral blood flow in Alzheimer’s mice (2022) *Brain*.
 
-*Elizabeth Koman, *Emily Laurilliard, **Nancy E. Ruiz-Uribe**, *Aziza Moore. Restoration Through Regeneration: A Scientific and Political Lens into Regenerative Agriculture in the United States. (2021) *Journal of Science Policy and Governance. *Denotes equal contribution
+*Elizabeth Koman, *Emily Laurilliard, ***Nancy E. Ruiz-Uribe**, *Aziza Moore. Restoration Through Regeneration: A Scientific and Political Lens into Regenerative Agriculture in the United States. (2021) *Journal of Science Policy and Governance*. *Denotes equal contribution
 
 Cristhian David Perdomo-Gomez, **Nancy E. Ruiz-Uribe**, John Mario Gonzalez, Antonio Manu Forero Shelton. Nanotubule formation in Trypanosoma cruzi under shear stress. (2021) In review *Physical Biology*
 
