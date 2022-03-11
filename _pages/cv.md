@@ -80,7 +80,7 @@ Speaker at the 1st LatinX in BME symposium (virtual) organized by LatinX in BME 
 Speaker at webinar: Small and Mighty: Brain Capillaries in Health Disease (2021) with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
 
 <p align="center">
-<img src="https://nancyruizu.github.io/files/braincapillariesweb.jpeg" width="600px"> 
+<img src="https://nancyruizu.github.io/files/braincapillariesweb.jpeg" width="400px" height="500px"> 
 </p>
 
 Presenter at poster session (changed to virtual conference due to COVID-19) at the 2020 Alzheimer’s Association International Conference (AAIC). **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer. Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. Amsterdam, The Netherlands, July 27th -31st, 2020.  
