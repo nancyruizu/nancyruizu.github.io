@@ -72,12 +72,16 @@ Talks and poster presentations
 Panelist at the Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment (ISTAART) Journal Club: “Meet the Author”, where I presented the paper: “Astrocytic interleukin-3 programs microglia and limits Alzheimer’s disease” and hosted a Q&A session with the author: Dr. Cameron McAlpine. February 3rd, 2022.
 
 <p align="center">
-<img src="https://nancyruizu.github.io/files/ISTAARTjclub.jpeg" width="800px"> 
+<img src="https://nancyruizu.github.io/files/ISTAARTjclub.jpeg" width="600px"> 
 </p>
 
 Speaker at the 1st LatinX in BME symposium (virtual) organized by LatinX in BME and Florida International University (2020), with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
 
 Speaker at webinar: Small and Mighty: Brain Capillaries in Health Disease (2021) with the talk: Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer.
+
+<p align="center">
+<img src="https://nancyruizu.github.io/files/braincapillariesweb.jpeg" width="600px"> 
+</p>
 
 Presenter at poster session (changed to virtual conference due to COVID-19) at the 2020 Alzheimer’s Association International Conference (AAIC). **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Brendah N. Njiru, Kaja Falkenhain, Hsin-Yun Chang, Costantino Iadecola, Laibaik Park, Nozomi Nishimura, and Chris B. Schaffer. Neutrophil adhesion in brain capillaries contributes to cerebral blood flow deficits in APP/PS1 mice and is dependent on oxidative stress pathways. Amsterdam, The Netherlands, July 27th -31st, 2020.  
 
