@@ -16,7 +16,7 @@ I was fortunate to be part of the organizing committee for the first New York St
 <p align="center">
 <img src="https://nancyruizu.github.io/files/ComSciCon.JPG"> 
 </p>
-<p align="center"6
+<p align="center">
 <img src="https://nancyruizu.github.io/files/AAAS.jpg" width="600px" height="500px"> 
 </p>
 
@@ -24,7 +24,11 @@ I was fortunate to be part of the organizing committee for the first New York St
 Policy memo about regenerative agriculture in the US
 -----
 
-As part of the Science Policy Bootcamp class (BME 4440) at Cornell, me and three other graduate students wrote a policy memo about how the agricultural system in the US is unsustainable in the long term, and how novel alternatives such as regenerative agriculture can help solve large scale problems such as food insecurity and climate change. Feel free to read the memo [here](https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/koman_etal_jspg_19-1.pdf)
+As part of the Science Policy Bootcamp class (BME 4440) at Cornell, me and three other graduate students wrote a policy memo about how the agricultural system in the US is unsustainable in the long term, and how novel alternatives such as regenerative agriculture can help solve large scale problems such as food insecurity and climate change. Feel free to read the memo [here.](https://www.sciencepolicyjournal.org/article_1038126_jspg190106.html)
+
+<p align="center">
+<img src="https://nancyruizu.github.io/files/policy.png" width="500px" height="300px"> 
+</p>
 
 
 NatureVolve
