@@ -89,6 +89,10 @@ Talks and poster presentations
 
 * Presenter at poster session at the 14th international conference of Alzheimer’s and Parkison’s diseases (ADPD) 2019. **Nancy E. Ruiz-Uribe**, Oliver Bracko, Madisen Swallow, Muhammad Ali, Nozomi Nishimura, and Chris B. Schaffer. Inhibition of NOX2 Reduces Capillary Stalling and Restores Cerebral Blood Flow in a Mouse Model of Alzheimer’s Disease. Lisbon, Portugal, March 26th to March 31st , 2019.
 
+<p align="center">
+<img src="https://nancyruizu.github.io/files/ADPDconference.JPG" width="300px" height="400px"> 
+</p>
+
 * Presenter at poster session at the annual Society for Neuroscience (SfN) meeting. **Ruiz-Uribe, N.E.**, Ahn, S.J., Schaffer, C.B. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy. San Diego, CA, USA. November 4th-November 7th, 2018.
 
 * Presenter at poster session at the 61st annual Biophysical Society meeting. **Ruiz-Uribe, N.E.**, Gonzalez J.M., and Forero-Shelton A.M., Mechanical Properties of Trypanosoma Cruzi Flagellum. New Orleans, Louisiana, USA. February 11th – February 15th, 2017.
