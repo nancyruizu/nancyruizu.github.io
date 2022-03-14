@@ -16,8 +16,8 @@ I was fortunate to be part of the organizing committee for the first New York St
 <p align="center">
 <img src="https://nancyruizu.github.io/files/ComSciCon.JPG"> 
 </p>
-<p align="center">
-<img src="https://nancyruizu.github.io/files/AAAS.jpg" width="400px" height="400px"> 
+<p align="center"6
+<img src="https://nancyruizu.github.io/files/AAAS.jpg" width="600px" height="500px"> 
 </p>
 
 
@@ -32,6 +32,6 @@ NatureVolve
 Dr. Oliver Bracko (a former postdoc in my lab) and me wrote a piece for the NatureVolve magazine where we explain our research in a fun and accessible way, combined with beautiful pictures and graphics. Check the publication [here](https://www.pressreader.com/uk/nature-volve/20210201)
 
 <p align="center">
-<img src="https://nancyruizu.github.io/files/NatureVolve.jpeg"> 
+<img src="https://nancyruizu.github.io/files/NatureVolve.jpeg" width="400px" height="500px"> 
 </p>
 
