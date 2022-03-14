@@ -30,7 +30,7 @@ In vivo two and three photon microscopy
 To understand vascular dynamics *in vivo*, I use multiphoton imaging to visualize blood vessels and measure blood flow in a *live* animal. By using different fluorescent labelling strategies, we can visualize leukocytes, platelets and red blood cells, and understand which cells are adhering to the vascular endothelium causing capillary stalling. To gain optical access to the brain, I perform cranial window surgeries on AD mouse models, which allows visualization of neurons, cells and the vasculature up to 1 mm deep (with three-photon imaging).
 
 <p align="center">
-<img src="https://nancyruizu.github.io/images/THG.png" width="300px" height="400px"> 
+<img src="https://nancyruizu.github.io/images/THG.png" width="400px" height="500px"> 
 </p>
 
 From Ahn et al., 2020 *JCBFM*
