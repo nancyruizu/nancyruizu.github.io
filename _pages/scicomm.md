@@ -17,7 +17,7 @@ I was fortunate to be part of the organizing committee for the first New York St
 <img src="https://nancyruizu.github.io/files/ComSciCon.JPG"> 
 </p>
 <p align="center">
-<img src="https://nancyruizu.github.io/files/AAAS.jpg" width="600px" height="500px"> 
+<img src="https://nancyruizu.github.io/files/AAAS.jpg" width="500px" height="400px"> 
 </p>
 
 
@@ -39,3 +39,7 @@ Dr. Oliver Bracko (a former postdoc in my lab) and me wrote a piece for the Natu
 <img src="https://nancyruizu.github.io/files/NatureVolve.jpeg" width="400px" height="500px"> 
 </p>
 
+Podcast interviews
+-----
+
+I've participated in a number of podcasts about my research and life trajectories: here you can find examples of an interview I had for [Locally Sourced Science](https://locallysourcedscience.org/2021/02/16/lss-106-the-story-of-the-new-cornell-cals-dean-and-what-is-new-in-alzheimers-research/), an interview for the podcast [Science Blender about Imposter Syndrome](http://scienceblender.com/8-the-imposter-syndrome/), another for [TidBits of Research](https://www.podbean.com/media/share/pb-kmstk-10648fe), and one for [BluRadio](https://www.bluradio.com/salud/nancy-ruiz-la-colombiana-que-hace-avances-medicos-para-combatir-el-alzheimer), a local radio station from my home country, Colombia. (In spanish) 
