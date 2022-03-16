@@ -25,3 +25,20 @@ I was the Science Communication officer (2019-2020) for the Cornell Graduate Wom
 <p align="center">
 <img src="https://nancyruizu.github.io/files/ScienceOnTap.jpg" width="500px"> 
 </p>
+
+Communicating science at the Ithaca ScienceCenter!
+-----
+
+With the help of Dr. Steven Adie, me and Rose Buchmann (BME PhD student) designed a little optics demo to show kids from 3-8 years old about light, colors and optics. We used CDs, prisms, and glasses of water to show how light is composed of many colors or **wavelengths**. The demo was initially designed to be in-person but due to the COVID-19 pandemic, it ended up being virtual
+
+<p align="center">
+<img src="https://nancyruizu.github.io/files/NancyRose_DayBeforePrep.jpg" width="500px"> 
+</p>
+
+Qué significa ser mujer en la ciencia?
+------
+I enjoy giving talks in Spanish about my research and life experiences. In this opportunity, I spoke about what it means to be a women in science, specially coming from a background as a latina, first generation graduate student. The talk was aimed at engineering undergraduate students from the IEST Anahuac institute in Tamaulipas, Mexico.
+
+<p align="center">
+<img src="https://nancyruizu.github.io/files/charlaMexico.jpg" width="500px"> 
+</p>
