@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+During my undergraduate and graduate careers, I have had extensive experience as a teaching assistant for numerous courses, ranging from biology labs to advanced physics courses. Below you can find a list of all the courses I've supported as TA: 
+
 
 2020-1 Teaching Assistant
 -----

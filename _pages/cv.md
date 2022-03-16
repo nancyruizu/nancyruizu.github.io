@@ -20,7 +20,7 @@ Work experience
 ======
 
 * 2017-current, Graduate Student
-  * Cornell University
+  * Cornell University, Ithaca, NY.
   * Currently investigating the role of cerebral blood flow (CBF) deficits in the APP/PS1 mouse model of Alzheimer’s disease (AD) through in vivo multiphoton imaging. 
   * Supervisor: Chris Schaffer, PhD.
 
@@ -31,7 +31,7 @@ Work experience
 
 * Summer 2018: Research Intern
   * Weill Cornell Medicine, New York, NY.
-  * Developed a magnetic imaging phantom and optimized a magnetic resonance imaging (MRI) sequence for imaging chest wall deformity in patients with breast tissue expanders. Assessed the amount of chest wall compression in more than 50 patients with expanders and implants. Trained to acquire images of phantoms and patients with an MRI machine.
+  * Developed a magnetic imaging phantom and optimized a magnetic resonance imaging (MRI) sequence for imaging chest wall deformity in patients with breast tissue expanders. Assessed the amount of chest wall compression in more than 50 patients with expanders and implants. Trained to acquire images of phantoms and patients with a MRI machine.
   * Supervisor: Martin Prince, MD, PhD. 
 
 * Summer 2016: Research Intern
