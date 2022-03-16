@@ -8,4 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Hello world
+Graduate Society of Women Engineers 
+-----
+
