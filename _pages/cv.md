@@ -105,6 +105,9 @@ Talks and poster presentations
 Awards and Scholarships
 ======
 
+2022
+* Ephraim Garcia Graduate Student Excellence in Mentorship Award from Cornell Diversity Programs in Engineering
+
 2021-2023	
 * American Heart Association Pre-Doctoral Fellowship
 
