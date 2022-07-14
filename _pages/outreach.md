@@ -35,6 +35,14 @@ With the help of Dr. Steven Adie, me and Rose Buchmann (BME PhD student) designe
 <img src="https://nancyruizu.github.io/files/NancyRose_DayBeforePrep.jpg" width="500px"> 
 </p>
 
+Expanding your Horizons (EYH) Cornell
+-----
+
+[See the Cornell Chronicle article here](https://news.cornell.edu/stories/2022/04/biomedical-engineers-inspire-9th-graders-neuroscience)
+
+With Nicole Chernavsky and Pietro Michelucci, I was the co-organizer for the workshop: "Help Cure Alzheimer's Disease!", designed to inspire 9th-grade girls into pursuing careers in STEM. We showcased lasers and other optical tools we use for our research, in addition to stained brains of Alzheimer's disease mouse models. We also gave an overview of our scientific careers and what it means to be a woman in science. The girls also played [StallCatchers](https://stallcatchers.com/main), an online crowd sourcing citizen science game where people can help analyze our multiphoton microscopy images. 
+
+
 Qué significa ser mujer en la ciencia?
 ------
 I enjoy giving talks in Spanish about my research and life experiences. In this opportunity, I spoke about what it means to be a women in science, specially coming from a background as a latina, first generation graduate student. The talk was aimed at engineering undergraduate students from the IEST Anahuac institute in Tamaulipas, Mexico.
