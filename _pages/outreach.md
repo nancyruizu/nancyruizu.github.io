@@ -42,6 +42,10 @@ Expanding your Horizons (EYH) Cornell
 
 With Nicole Chernavsky and Pietro Michelucci, I was the co-organizer for the workshop: "Help Cure Alzheimer's Disease!", designed to inspire 9th-grade girls into pursuing careers in STEM. We showcased lasers and other optical tools we use for our research, in addition to stained brains of Alzheimer's disease mouse models. We also gave an overview of our scientific careers and what it means to be a woman in science. The girls also played [StallCatchers](https://stallcatchers.com/main), an online crowd sourcing citizen science game where people can help analyze our multiphoton microscopy images. 
 
+<p align="center">
+<img src="https://nancyruizu.github.io/files/EYH2.jpeg" width="500px"> 
+</p>
+
 
 Qué significa ser mujer en la ciencia?
 ------
