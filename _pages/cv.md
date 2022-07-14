@@ -14,7 +14,7 @@ Education
 * B.S. in Physics, Universidad de los Andes, Colombia, 2016
 * B.S. in Biology, Universidad de los Andes, Colombia, 2017
 * M.S. in Biomedical Engineering, Cornell University, 2019
-* Ph.D in Biomedical Engineering, Cornell University, 2023 (expected)
+* Ph.D in Biomedical Engineering, Cornell University, 2022 (expected)
 
 Work experience
 ======
@@ -23,6 +23,11 @@ Work experience
   * Cornell University, Ithaca, NY.
   * Currently investigating the role of cerebral blood flow (CBF) deficits in the APP/PS1 mouse model of Alzheimer’s disease (AD) through in vivo multiphoton imaging. 
   * Supervisor: Chris Schaffer, PhD.
+
+* Summer 2022: Consultant
+  * Genentech, San Francisco, CA.
+  * I'm continuing the work from the past summer in understanding the prognostic utility of tau PET and white matter hyperintensities for cognitive decline in mild and prodromal AD patients. In addition, I'm preparing a poster showcasing this work for the 2022 Alzheimer's Association International Conference in San Diego, CA. 
+  * Supervisor: Edmond Teng, MD, PhD. 
 
 * Summer 2021: Clinical Science Intern
   * Genentech, San Francisco, CA.
@@ -69,6 +74,8 @@ Kaja Falkenhain, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Muhammad Ali
   
 Talks and poster presentations
 ======
+* Presenter at poster session at the 2022 Gordon Conference in Optics and Photonics in Medicine and Biology. **Nancy E. Ruiz-Uribe**, Nathaniel H Allan-Rahill, Phillip Danziger, Argen Omurzakov, Madison Yang, Laura Berkowitz, Adina Mistry, Sylvie Lorthois, Nozomi Nishimura, Chris B. Schaffer. Long-duration, linescan measurement of microvascular dynamics of transient leukocyte passage in brain capillaries in the APP/PS1 mouse model of Alzheimer’s disease. Bates College, Lewiston, ME. July 10-15th 2022. 
+
 * Panelist at the Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment (ISTAART) Journal Club: “Meet the Author”, where I presented the paper: “Astrocytic interleukin-3 programs microglia and limits Alzheimer’s disease” and hosted a Q&A session with the author: Dr. Cameron McAlpine. February 3rd, 2022.
 
 <p align="center">
@@ -106,7 +113,7 @@ Awards and Scholarships
 ======
 
 2022
-* Ephraim Garcia Graduate Student Excellence in Mentorship Award from Cornell Diversity Programs in Engineering
+* [Ephraim Garcia Graduate Student Excellence in Mentorship Award from Cornell Diversity Programs in Engineering](https://www.bme.cornell.edu/news/meinig-school-students-honored-2022-annual-diversity-awards)
 
 2021-2023	
 * American Heart Association Pre-Doctoral Fellowship
@@ -128,4 +135,3 @@ Awards and Scholarships
 
 2015		
 * Summer Scholarship for Undergraduate Research – Cornell University - Uniandes
-

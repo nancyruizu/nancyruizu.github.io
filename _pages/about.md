@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 ======
-I'm a physicist and biologist by training, and currently I'm finishing my PhD in Biomedical Engineering in the [Schaffer-Nishimura Lab](https://snlab.bme.cornell.edu) at Cornell University. I'm passionate about all things neuroscience (specially the vasculature) but I'm also passionate about science communication, advocacy, diversity, equity and inclusion in STEM.   
+I'm a physicist and biologist by training, and a neuroscientist by heart. I'm currently finishing my PhD in Biomedical Engineering in the [Schaffer-Nishimura Lab](https://snlab.bme.cornell.edu) at Cornell University. I'm passionate about all things neuroscience (specially the vasculature) but I'm also passionate about science communication, advocacy, diversity, equity and inclusion in STEM.   
 
 **Contact**
 [Email](mailto:nr376@cornell.edu) | [Twitter](https://twitter.com/NancyRuizU) | [Github](https://github.com/nancyruizu) | [Lab website](https://snlab.bme.cornell.edu)
