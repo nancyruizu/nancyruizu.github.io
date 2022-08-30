@@ -64,6 +64,8 @@ Muhammad Ali, Kaja Falkenhain, Brendah N Njiru, Muhammad Murtaza-Ali, **Nancy E 
 
 Cristhian David Perdomo-Gomez, **Nancy E. Ruiz-Uribe**, John Mario Gonzalez, Antonio Manu Forero Shelton. Nanotubule formation in Trypanosoma cruzi under shear stress. (2021) In review *Physical Biology*
 
+**Nancy E. Ruiz-Uribe** & Oliver Bracko. Brain and blood extraction for immunostaining, protein, and RNA measurements after long-term two photon imaging in mice. (2020) Protocol Exchange 
+
 Sung Ji Ahn, **Nancy E. Ruiz-Uribe**, Boqiang Li, Jason Porter, Sava Sakadzic, Chris B. Schaffer. Label-free measurement of blood flow speed in individual, cortical brain vessels using third harmonic generation microscopy (2020). *Biomedical Optics Express*. (This work was top downloaded in April 2020)
 
 Oliver Bracko, Lindsay K. Vinarcsik, Jean C. Cruz Hernández, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Kaja Falkenhain, Egle M. Ramanauskaite, Muhammad Ali, Aditi Mohapatra, Madisen A. Swallow, Brendah N. Njiru, Victorine Muse, Pietro E. Michelucci, Nozomi Nishimura, Chris B. Schaffer.
@@ -74,6 +76,8 @@ Kaja Falkenhain, **Nancy E. Ruiz-Uribe**, Mohammad Haft-Javaherian, Muhammad Ali
   
 Talks and poster presentations
 ======
+*Presenter at poster session at the 2022 Alzheimer’s Association International Conference (AAIC): “Prognostic utility of baseline [18F]GTP1 tau PET signal for subsequent cognitive and functional decline in prodromal-to-mild Alzheimer's disease”. **Nancy E. Ruiz-Uribe**, Paul T. Manser, Brandon Butcher, Sandra Sanabria Bohorquez, Suzanne Baker, Cecilia Monteiro, Edmond Teng.
+
 * Presenter at poster session at the 2022 Gordon Conference in Optics and Photonics in Medicine and Biology. **Nancy E. Ruiz-Uribe**, Nathaniel H Allan-Rahill, Phillip Danziger, Argen Omurzakov, Madison Yang, Laura Berkowitz, Adina Mistry, Sylvie Lorthois, Nozomi Nishimura, Chris B. Schaffer. Long-duration, linescan measurement of microvascular dynamics of transient leukocyte passage in brain capillaries in the APP/PS1 mouse model of Alzheimer’s disease. Bates College, Lewiston, ME. July 10-15th 2022. 
 
 * Panelist at the Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment (ISTAART) Journal Club: “Meet the Author”, where I presented the paper: “Astrocytic interleukin-3 programs microglia and limits Alzheimer’s disease” and hosted a Q&A session with the author: Dr. Cameron McAlpine. February 3rd, 2022.
